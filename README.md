@@ -1,12 +1,43 @@
-# React + Vite
+# 📝 To-Do List Web Application (React)
+## live [live](https://todo-phi-nine-51.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **To-Do List web application** built with **React**. The app allows users to **add** and **delete tasks** effortlessly, providing a clean and user-friendly interface for task management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Description
 
-## Expanding the ESLint configuration
+This **React-based To-Do List app** allows users to:
+- **Add new tasks**: Enter task descriptions and add them to the list.
+- **Delete tasks**: Remove tasks when they are completed or no longer needed.
+- The tasks are displayed dynamically using React state, ensuring a seamless and interactive experience.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- **Add Task**: Users can add new tasks by typing a description and clicking the "Add Task" button.
+- **Delete Task**: Tasks can be removed from the list by clicking the delete button next to each task.
+- **Dynamic Rendering**: The list of tasks is updated in real-time as tasks are added or deleted.
+- **User-friendly UI**: The app is built with a simple and intuitive interface using React components.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js
+- **Styling**: Tailwind CSS
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js installed on your local machine
+- A modern web browser (Chrome, Firefox, etc.)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yAMISHA1703/todo-app-react.git
