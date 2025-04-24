@@ -1,6 +1,6 @@
 # 📝 To-Do List Web Application (React)
 
-  ##  👉 [Demo] (https://todo-phi-nine-51.vercel.app/)
+  ##  👉 [Demo](https://todo-phi-nine-51.vercel.app/)
 
 A simple and interactive **To-Do List web application** built with **React**. The app allows users to **add** and **delete tasks** effortlessly, providing a clean and user-friendly interface for task management.
 
